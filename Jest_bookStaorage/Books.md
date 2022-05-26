@@ -1,4 +1,3 @@
-# End assignment
 
 ## Task: Create and test a BookStorage class
 Create a class for book data. Data storage is passed to the constractor as a parameter. Use the following json object as default storage
